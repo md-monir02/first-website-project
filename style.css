@@ -88,18 +88,3 @@ footer p{
     font-family:'Galada', cursive;
     font-size: 18px;
 }
-
-
-/* Extra large devices (large desktops, 1200px and up) */
-@media (min-width: 1200px) {
-}
-/* Large devices (desktops, 992px and up) */
-@media (min-width: 992px) and (max-width: 1199px) {
-}
-/* Medium devices (tablets, 768px and up) */
-@media (min-width: 768px) and (max-width: 991px) {
-}
-/*small devices (portrait phones, less than 576px) */
-@media(min-width: 576px) and (max-width: 767px) {
-    
-}
