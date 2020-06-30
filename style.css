@@ -88,3 +88,41 @@ footer p{
     font-family:'Galada', cursive;
     font-size: 18px;
 }
+
+
+/* responsive design */
+@media screen and (min-width: 950px){
+    h1 {
+        font-size: 50px;
+    }
+
+    h2 {
+        font-size: 40px;
+    }
+     
+    section {
+        height: 500px;
+    }
+
+    .half-width {
+        float: left;
+        width: 40%;
+        margin: 0 0 0 6%;
+    }
+
+    .btn {
+        margin: 10px 0 0 0;
+    }
+    
+    .d-none {
+        display: block;
+    }
+
+    .single-experience {
+        padding: 0 0;
+        height: 350px;
+    }
+
+    #full-stack {
+        margin-bottom: 0;
+    }
